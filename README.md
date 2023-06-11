@@ -1,0 +1,1 @@
+Now that you've read through the commands in the links I sent you, can you try running the bash program in this directory called program.sh. Remember to think it through and read all messages/errors you get carefully!
